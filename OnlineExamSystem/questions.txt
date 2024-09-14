@@ -1,0 +1,3 @@
+What is the capital of France?,New Delhi,London,Paris,Dublin,3
+Where does the String Pool gets stored?,Metaspace,Java stack,Java heap,Permanent generation,3
+Which data structure uses LIFO order?,Queue,Stack,Array,Linked list,2
